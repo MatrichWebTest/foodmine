@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\hapihausdonuts-backend"
+		},
+		{
+			"path": "..\\..\\hapihausdonuts-frontend"
+		},
+		{
+			"path": "..\\..\\material-demo"
+		},
+		{
+			"path": "..\\..\\otp"
+		},
+		{
+			"path": "..\\..\\jco-backend"
+		},
+		{
+			"path": "..\\..\\jco-frontend"
+		},
+		{
+			"path": "..\\..\\manginasal-backend"
+		},
+		{
+			"path": "..\\..\\manginasal-frontend"
+		},
+		{
+			"path": "..\\..\\greenwich-backend"
+		},
+		{
+			"path": "..\\..\\greenwich-frontend"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+	}
+}
